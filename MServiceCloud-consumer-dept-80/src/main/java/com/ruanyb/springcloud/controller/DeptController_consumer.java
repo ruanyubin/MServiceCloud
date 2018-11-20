@@ -15,7 +15,7 @@ import com.ruanyb.springcloud.entities.Dept;
 @RestController
 public class DeptController_consumer {
 	
-	private static final String REST_URL_PREFIX = "http://localhost:8001";
+	private static final String REST_URL_PREFIX = "http://MSERVICECLOUD-DEPT";
 	
 	@Autowired
 	private RestTemplate restTemplate;
