@@ -69,5 +69,6 @@
 		<module>MServiceCloud-consumer-dept-80</module>
 		<module>MServiceCloud-eureka-7001</module>
 		<module>MServiceCloud-eureka-7002</module>
+		<module>MServiceCloud-provider-dept-8002</module>
 	</modules>
 </project>
